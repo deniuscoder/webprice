@@ -3,6 +3,31 @@
 	margin: 0 auto;
 	padding: 20px;
 }
-.ask {
+
+/* LOGIN SECTION */
+
+.login-cover {
+	background: #fff;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100vh;
+	z-index: 90;
 	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.login-form {
+	background: #fff;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100vh;
+	z-index: 190;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
